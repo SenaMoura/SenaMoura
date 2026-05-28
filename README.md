@@ -10,8 +10,8 @@ Meu nome é Pedro Henrique de Sena Moura, mas me chame de Sena ou de Moura, atua
 ### 🛠️Ferramentes que utilizo:
 - VSCODE
 - CURSOR
-- CLAUDE
 - QT DESIGN
+- FRAMER
 
 ### ✏️ESSENCIAL
 ### - "A paz é a chave para se ter uma vida bela"
@@ -22,6 +22,9 @@ Meu nome é Pedro Henrique de Sena Moura, mas me chame de Sena ou de Moura, atua
 - Tenho grande conhecimento na língua inglesa e consigo me comunicar com gringos tranquilamente
 - Tenho paixão pela língua Alemã e Italiana e atualmente estou estudando alemão
 - Gosta de jogar diversos jogos tendo o minecraft como o meu favorito
+
+### 💻CONTATO
+e-mail:pedrosena.hgp@gmail.com 
   
 
 
