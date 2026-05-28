@@ -10,6 +10,7 @@ Meu nome é Pedro Henrique de Sena Moura, mas me chame de Sena ou de Moura, atua
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java
   
 ### 🛠️Ferramentes que utilizo:
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" width="40" height="40" alt="Cursor" />
