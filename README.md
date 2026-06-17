@@ -25,6 +25,8 @@ Meu nome é Pedro Henrique de Sena Moura, mas me chame de Sena ou de Moura, atua
 
 ### 💡CURIOSIDADES 
 - Diferente de muitos, eu tenho uma paixão enorme pela natureza, para mim é nela que se encontra a paz e o entender da vida
+- Gosto de trabalhar com modpacks e configurar mods java, aqui está um dos meus projetos:
+- https://www.curseforge.com/minecraft/modpacks/vhsworld
 
 ### 💻CONTATO
 - e-mail:pedrosena.hgp@gmail.com 
