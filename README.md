@@ -30,7 +30,7 @@ Meu nome é Pedro Henrique de Sena Moura, mas me chame de Sena ou de Moura, atua
 
 ### 💻CONTATO
 - e-mail:pedrosena.hgp@gmail.com 
-- Discord: Dom
+- Discord: 𝕯𝖔𝖒
 
 
 <!--
