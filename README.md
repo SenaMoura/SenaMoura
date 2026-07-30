@@ -14,7 +14,7 @@ Meu nome é Pedro Henrique de Sena Moura, mas me chame de Sena ou de Moura, atua
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" width="40" height="40" alt="Cursor" />  
-  <img width="320" height="320" alt="claude-logo-png_seeklogo-554534 (1)" src="https://github.com/user-attachments/assets/0fe8bddc-8f84-48e4-8a6f-810490362d3d" />
+  <img width="40" height="40" alt="claude-logo-png_seeklogo-554534 (1)" src="https://github.com/user-attachments/assets/0fe8bddc-8f84-48e4-8a6f-810490362d3d" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlegemini.svg" width="40" height="40" alt="Gemini" />
 
   
