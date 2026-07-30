@@ -1,4 +1,4 @@
-<img width="16" height="16" alt="claude-color" src="https://github.com/user-attachments/assets/a1062c42-36fa-4fa8-a919-4b6c7fbe86be" /># ⛰️SOBRE MIM 
+# ⛰️SOBRE MIM 
 Meu nome é Pedro Henrique de Sena Moura, mas me chame de Sena ou de Moura, atualmente estou estudando no SESI e faço os cursos de desenvolvimento de sistemas do SENAI, estou atuando na área da tecnologia, criando projetos próprios que vão servir para o meu aprendizado, desenvolvo projetos cujo tem o objetivo de ajudar os outros a minha volta. Começei a ter essa paixão pela tecnologia em 2021, aonde eu começei a desenvolver jogos para plataformas simples, no entanto eu havia parado com a ideia de ser um criador de jogos e começei a praticar programação. Atualmente estou focando e aprimorando minhas habilidades em Lógica de programação, Desenvolvimento de Sistemas e Redes IOT
 
 ### 📚Atualmente estou estudando as seguintes linguagens:
