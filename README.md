@@ -15,6 +15,9 @@ Meu nome é Pedro Henrique de Sena Moura, mas me chame de Sena ou de Moura, atua
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
   <img width="40" height="40" alt="cursor" src="https://github.com/user-attachments/assets/9c0856ad-a542-4305-a26e-840c4eb9993d" />
   <img width="40" height="40" alt="claude-logo-png_seeklogo-554534 (1)" src="https://github.com/user-attachments/assets/0fe8bddc-8f84-48e4-8a6f-810490362d3d" />
+
+  <img width="40" height="40" alt="claude-logo-png_seeklogo-554534 (1)"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1280px-IntelliJ_IDEA_Icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
+  
   
 ### ✏️ESSENCIAL
 ### - A paz é a chave para se ter uma vida bela
